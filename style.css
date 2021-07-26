@@ -1,0 +1,72 @@
+body{
+    background-image: url(img/fond.png);
+}
+.header{
+    background-color: rgb(184, 203, 33);
+    font-family: 'Oswald', sans-serif;
+
+}
+main{
+    margin: 0 23%;
+    background-color: white;
+    height: 1000px;
+
+}
+main img{
+    float: left;
+    margin-right: 8px;
+}
+nav{
+    height: 125px;
+    width: 100%;
+}
+.art{
+    padding: 10px 15px;
+    
+}
+nav a{
+    float: right;
+    margin: 40px 15px;
+    color: rgb(43, 72, 42);
+}
+ .what{
+   clear: both;
+}
+
+h1{
+    clear: left;
+    color: rgb(184, 203, 33);
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3em;
+}
+p{
+   
+    font-size: 1.1em;
+}
+li{
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3em;
+}
+button{
+    float: right;
+    background-color: rgb(184, 203, 33);
+    height: 40px;
+    width: 140px;
+    border-color: rgb(184, 203, 33) ;
+    font-size: 17px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+
+}
+footer div{
+    clear: both;
+    margin-top: 10px;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(112, 108, 108);
+}
+
+footer {
+    color: rgb(112, 108, 108);
+}
